@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/main.cd093ca4.chunk.js",
+    "main.js.map": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/main.cd093ca4.chunk.js.map",
+    "runtime-main.js": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/runtime-main.8081ddaa.js",
+    "runtime-main.js.map": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/runtime-main.8081ddaa.js.map",
+    "static/js/2.5ea9fa36.chunk.js": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/2.5ea9fa36.chunk.js",
+    "static/js/2.5ea9fa36.chunk.js.map": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/2.5ea9fa36.chunk.js.map",
+    "index.html": "/Fuhrer13/goit-react-hw-02-feedback.git/index.html",
+    "precache-manifest.86001e7c55d2a2aa17fc4554ca32d643.js": "/Fuhrer13/goit-react-hw-02-feedback.git/precache-manifest.86001e7c55d2a2aa17fc4554ca32d643.js",
+    "service-worker.js": "/Fuhrer13/goit-react-hw-02-feedback.git/service-worker.js",
+    "static/js/2.5ea9fa36.chunk.js.LICENSE.txt": "/Fuhrer13/goit-react-hw-02-feedback.git/static/js/2.5ea9fa36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8081ddaa.js",
+    "static/js/2.5ea9fa36.chunk.js",
+    "static/js/main.cd093ca4.chunk.js"
+  ]
+}
